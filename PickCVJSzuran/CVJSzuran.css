@@ -1,0 +1,160 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #e5e5e5;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+.main-dscription {
+  margin: 20px;
+  padding: 40px;
+}
+.projo {
+  margin: 20px;
+  padding: 10px;
+}
+.work {
+  margin: 10px;
+  padding: 10px;
+}
+.edu {
+  margin: 10px;
+  padding: 10px;
+}
+
+.li {
+  color: green;
+}
+.contact-links {
+  margin: 20px;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+}
+.bold {
+  font-weight: 700;
+  color: #ffffff;
+}
+aside {
+  width: 370px;
+  background: #1e2939;
+}
+.zdj {
+  margin: 25px 0 0 0;
+}
+.head-sec {
+  color: #ffffff;
+}
+.list-sec {
+  color: rgba(251, 109, 58, 1);
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list-sec-item {
+  color: #ffffff;
+}
+.contact-box {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+.tech-box {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+.soft-box {
+  margin-top: 44px;
+  margin-left: 40px;
+}
+main {
+  padding: 120px 88px 102px 88px;
+}
+.list-main {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  padding-left: 0;
+  list-style-position: inside;
+  color: #595959;
+}
+.main-description {
+  width: 400px;
+}
+.job-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+}
+.mydescription {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-bottom: 40px;
+}
+.projects {
+  margin-top: 40px;
+  margin-bottom: 51px;
+  width: 485px;
+}
+.list-primary {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list-primary-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+}
+.header-primary {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 12px;
+}
+.job-position {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+.highlight {
+  color: #fb6d3a;
+}
+.line {
+  font-weight: 700;
+  color: #000000;
+}
+.job-date {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+
+  color: #a8a8a8;
+}
+.Edu {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+}
+.school {
+  margin-top: 12px;
+  margin-bottom: 11px;
+}
