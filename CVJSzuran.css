@@ -1,0 +1,219 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #e5e5e5;
+  margin: 0;
+  @media screen and (max-width: 1028px) {
+    margin-inline-start: auto;
+    flex-wrap: wrap;
+    width: 100%;
+    background: #ffffff;
+  }
+  @media screen and (max-width: 600px) {
+    margin-inline-start: auto;
+    flex-wrap: wrap;
+    background: #ffffff;
+  }
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+
+  @media screen and (max-width: 1028px) {
+    margin-inline-start: auto;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  @media screen and (max-width: 320px) {
+    flex-wrap: wrap;
+    max-width: 370px;
+  }
+}
+.right-side {
+  @media screen and (max-width: 1028px) {
+    flex-wrap: wrap;
+    max-width: 370px;
+  }
+  @media screen and (max-width: 600px) {
+    margin-inline-start: auto;
+    flex-wrap: wrap;
+  }
+  @media screen and (max-width: 320px) {
+    flex-wrap: wrap;
+    max-width: 370px;
+  }
+}
+.main-dscription {
+  margin: 20px;
+  padding: 40px;
+}
+.projo {
+  margin: 20px;
+  padding: 10px;
+}
+.work {
+  margin: 10px;
+  padding: 10px;
+}
+.edu {
+  margin: 10px;
+  padding: 10px;
+}
+
+.li {
+  color: green;
+}
+.contact-links {
+  margin: 20px;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+}
+.bold {
+  font-weight: 700;
+  color: #ffffff;
+}
+aside {
+  width: 100%;
+  max-width: 370px;
+  background: #1e2939;
+  @media screen and (max-width: 1028px) {
+    background: #1e2939;
+  }
+  @media screen and (max-width: 320px) {
+    flex-wrap: wrap;
+    max-width: 370px;
+  }
+}
+.zdj {
+  margin: 25px 15px 25px 15px;
+}
+.head-sec {
+  color: #ffffff;
+}
+.list-sec {
+  color: rgba(251, 109, 58, 1);
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list-sec-item {
+  color: #ffffff;
+}
+.contact-box {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+.tech-box {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+.soft-box {
+  margin-top: 44px;
+  margin-left: 40px;
+}
+main {
+  padding: 120px 88px 102px 100px;
+}
+.list-main {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  padding-left: 0;
+  list-style-position: inside;
+  color: #595959;
+  text-align: justify;
+}
+.main-description {
+  width: 400px;
+}
+.job-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  @media screen and (max-width: 500px) {
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 13px;
+  }
+}
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+}
+.mydescription {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-bottom: 40px;
+}
+.projects {
+  margin-top: 40px;
+  margin-bottom: 51px;
+  width: 485px;
+}
+.list-primary {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list-primary-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+}
+.header-primary {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 12px;
+}
+.job-position {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  @media screen and (max-width: 500px) {
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 13px;
+  }
+}
+.highlight {
+  color: #fb6d3a;
+}
+.line {
+  font-weight: 700;
+  color: #000000;
+}
+.job-date {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+  color: #737373;
+}
+.Edu {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 27px;
+}
+h3 {
+  font-size: 14px;
+}
+.school {
+  margin-top: 12px;
+  margin-bottom: 11px;
+}
