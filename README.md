@@ -1,1 +1,1 @@
-My CV made in HTML/CSS
+My CV made in HTML/CSS. Updating frequently.
