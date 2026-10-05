@@ -1,1 +1,2 @@
 My CV made in HTML/CSS. Updating frequently.
+Hi, I'm Jakub! 👋 I'm a Graduate IT Engineer passionate about building robust, data-driven solutions. My experience spans across the entire tech stack—from developing AI agents and full-stack web apps to hardening embedded Linux systems. I thrive at the intersection of software and hardware, turning complex requirements into reliable products. I'm always open to collaborating on open-source projects or tackling challenging architectural problems. Feel free to explore my CV and reach out if you'd like to work together!
