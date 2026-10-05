@@ -82,6 +82,7 @@ aside {
   width: 100%;
   max-width: 370px;
   background: #1e2939;
+  padding-top: 120px;
   @media screen and (max-width: 1028px) {
     background: #1e2939;
   }
@@ -107,9 +108,39 @@ aside {
 .list-sec-item {
   color: #ffffff;
 }
-.contact-box {
-  margin-top: 51px;
+.cert-id {
+  display: block;
+  margin-top: 2px;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: -0.2px;
+  color: rgba(255, 255, 255, 0.6);
+  word-break: break-all;
+}
+.sidebar-name-box {
+  margin-top: 0;
   margin-left: 40px;
+  margin-right: 24px;
+}
+.sidebar-name {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  margin: 0;
+}
+.contact-box {
+  margin-top: 32px;
+  margin-left: 40px;
+}
+.clause-box {
+  margin-top: 40px;
+}
+.clause-text {
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 16px;
+  color: #737373;
 }
 .tech-box {
   margin-top: 47px;
@@ -121,6 +152,12 @@ aside {
 }
 main {
   padding: 120px 88px 102px 100px;
+  text-align: justify;
+}
+main h2,
+main h3,
+main .job-date {
+  text-align: left;
 }
 .list-main {
   font-weight: 400;
@@ -132,7 +169,8 @@ main {
   text-align: justify;
 }
 .main-description {
-  width: 400px;
+  width: 100%;
+  break-inside: avoid;
 }
 .job-title {
   font-weight: 700;
